@@ -1,0 +1,2 @@
+makefile: read_test.c call.c
+	gcc -o makefile read_test.c call.c

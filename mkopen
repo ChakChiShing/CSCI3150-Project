@@ -1,0 +1,2 @@
+Open: open_test.c call.c
+	gcc -o open open_test.c call.c
